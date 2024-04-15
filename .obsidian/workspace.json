@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "4d6198c58d249d44",
+        "id": "e0e7b626e00b16cd",
         "type": "tabs",
         "children": [
           {
-            "id": "3b3adcb4b55cf944",
+            "id": "f6e475b8048a62a5",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,43 +20,19 @@
             }
           },
           {
-            "id": "069915f115c1d723",
+            "id": "178c23ef38389f89",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Пройти курс Ulbu.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cc71fc8b0d0ed522",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Досмотреть блок 4.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8a45fe281e2bf087",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Смотреть блок 5.md",
+                "file": "Inbox Notes.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -119,7 +95,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#task",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -128,8 +104,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -150,6 +125,45 @@
             "state": {
               "type": "reminder-list",
               "state": {}
+            }
+          },
+          {
+            "id": "bff32c35eb03b58f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Inbox Notes.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "868df53c57fc131a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Inbox Notes.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e4cfb29d6e9e0cde",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Inbox Notes.md"
+              }
             }
           }
         ]
@@ -183,19 +197,25 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "8a45fe281e2bf087",
+  "active": "178c23ef38389f89",
   "lastOpenFiles": [
+    "Оставить 50 откликов с накрученным опытом.md",
+    "Inbox Notes.md",
+    "Изучить базу JS.md",
+    "Templates/Шаблон Task.md",
+    "Повторить.md",
+    "Изучить TypeScript.md",
+    "Пройти курс Ulbu.md",
     "Досмотреть блок 4.md",
     "Смотреть блок 5.md",
-    "Пройти курс Ulbu.md",
-    "Inbox Notes.md",
+    "Составить резюме.md",
+    "Пробежаться по теории.md",
     "блабалабла.md",
     "Templates/Шаблон Meeting.md",
     "Templates/Шаблон  Reference.md",
     "Templates/Шаблон Project.md",
     "Templates/Шаблон Inbox.md",
     "Без названия",
-    "Templates/Шаблон Task.md",
     "Без названия 1.canvas",
     "Без названия.canvas",
     "Attachments",
